@@ -88,7 +88,9 @@ endmodule
 
 
 **RTL**
-<img width="1920" height="1080" alt="Exp1-Waveform" src="https://github.com/user-attachments/assets/0252f083-6072-4f67-bfcd-0383208f4696" />
+<img width="1920" height="1080" alt="waveform EX1" src="https://github.com/user-attachments/assets/6e6da194-7426-47a1-a0e1-d69e46247ec0" />
+
+
 
 
 **Result:**
